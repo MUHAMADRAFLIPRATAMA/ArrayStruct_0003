@@ -14,3 +14,9 @@ struct Mahasiswa
     DetailAlamat alamat;
 };
 
+int main ()
+{
+    // Membuat object struct dalam array
+    Mahasiswa mhs [2];
+    for (int i = 0; i < 2; i++)
+  
