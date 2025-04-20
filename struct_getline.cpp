@@ -7,3 +7,10 @@ struct DetailAlamat
     string provinsi;
 };
 
+struct Mahasiswa
+{
+    string nama;
+    string nim;
+    DetailAlamat alamat;
+};
+
